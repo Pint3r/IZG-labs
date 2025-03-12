@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/CMakeLists.txt
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/cmake/macros.cmake
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/cmake/sdlchecks.cmake
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/cmake_uninstall.cmake.in
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/include/SDL_config.h.cmake
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/SDL/include/SDL_revision.h.cmake
+C:/Users/matko/Desktop/VUT FIT/izg/lab1/build/SDL/SDL_config.h.intermediate
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CMakeDependentOption.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CMakeParseArguments.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CMakePushCheckState.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckCCompilerFlag.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckCSourceCompiles.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckCSourceRuns.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckIncludeFile.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckIncludeFiles.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckLibraryExists.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckOBJCSourceCompiles.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckStructHasMember.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/CheckSymbolExists.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/FindGit.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/FindPackageMessage.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/FindPkgConfig.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/GNUInstallDirs.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/matko/Downloads/cmake-3.25.2-windows-x86_64/share/cmake-3.25/Modules/Internal/CheckSourceRuns.cmake

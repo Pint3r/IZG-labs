@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\matko\Desktop\VUT FIT\izg\izg_lab02\build\CMakeFiles\ae5eb0fbf8c46757425c40c3f2f25cdf\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1DA0A67C-811E-3DE2-8A75-5F99A518217E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
